@@ -30,7 +30,7 @@ We used a joint plot to visualize the relationship between the time customers sp
 ### Linear Regression Model
 
 - **Model Building:** Built a linear regression model to predict the purchase amount based on customer behavior and time spent on the app/website.
-- **Model Evaluation:** Evaluated the model using R-squared and Mean Absolute Error (MAE) metrics.
+- **Model Evaluation:** Evaluated the model using Mean squared and Mean Absolute Error (MAE) metrics.
 
 ### Output
 
