@@ -1,6 +1,6 @@
   # Ecommerce Linear Regression Analysis
 
-This repository contains a Jupyter notebook that performs linear regression analysis on an E-commerce dataset predicting the valued customers who will most likely buy premium/ yearly subscription.
+This repository contains a Jupyter Notebook that performs linear regression analysis on an E-commerce dataset predicting the valued customers who will most likely buy premium/ yearly subscriptions.
 
 ## Business Relevant Insights
 
@@ -14,7 +14,7 @@ This repository contains a Jupyter notebook that performs linear regression anal
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Data Analysis:** Data cleaning, preprocessing, exploratory data analysis (EDA)
 - **Machine Learning:** Linear regression model building and evaluation
-- **Visualization:** Data visualization to derive business insights using matplotlib and seaborn
+- **Visualization:** Data visualization to derive business insights using Matplotlib and Seaborn
 
 ### Exploratory Data Analysis (EDA)
 
@@ -31,7 +31,9 @@ We used a joint plot to visualize the relationship between the time customers sp
 
 - **Model Building:** Built a linear regression model to predict the purchase amount based on customer behavior and time spent on the app/website.
 - **Model Evaluation:** Evaluated the model using R-squared and Mean Absolute Error (MAE) metrics.
-- **Output:**:
+
+### Output
+
   ![image](https://github.com/user-attachments/assets/6065591d-0e57-4e0d-872e-0b951b51f291)
 
 
@@ -41,9 +43,6 @@ We used a joint plot to visualize the relationship between the time customers sp
    ![image](https://github.com/user-attachments/assets/5ec596e3-21c4-43ae-9ea2-dba297aeb88d)
 
 
-Results
-The linear regression model provided insights into the factors influencing purchase amounts, helping businesses to:
-
-Identify high-value customer segments
-Tailor marketing strategies to different demographics
-Optimize product offerings based on customer spending patterns
+### Results
+This analysis showcases the ability to leverage linear regression to derive meaningful business insights and drive strategic decisions. 
+The predictive model and findings can help businesses optimize their customer engagement and marketing strategies to enhance revenue.
