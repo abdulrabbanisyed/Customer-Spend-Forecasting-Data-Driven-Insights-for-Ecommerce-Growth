@@ -2,6 +2,12 @@
 
 This repository contains a Jupyter notebook that performs linear regression analysis on an E-commerce dataset predicting the valued customers who will most likely buy premium/ yearly subscription.
 
+## Business Relevant Insights
+
+- **Customer Engagement:** Higher engagement on the app and website correlates with increased spending. This insight can drive investment in enhancing user experience on these platforms.
+- **Membership Length:** Longer membership is associated with higher yearly spending, suggesting retention strategies can boost revenue.
+-**Targeted Marketing:** Identifying high-value customer segments helps tailor marketing efforts and promotions to maximize ROI.
+
 ## Skills and Tools Used
 
 - **Programming Language:** Python
@@ -25,6 +31,9 @@ We used a joint plot to visualize the relationship between the time customers sp
 
 - **Model Building:** Built a linear regression model to predict the purchase amount based on customer behavior and time spent on the app/website.
 - **Model Evaluation:** Evaluated the model using R-squared and Mean Absolute Error (MAE) metrics.
+- **Output:**:
+  ![image](https://github.com/user-attachments/assets/6065591d-0e57-4e0d-872e-0b951b51f291)
+
 
 ### Key Visualizations
 
