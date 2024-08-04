@@ -1,4 +1,4 @@
-# Ecommerce Linear Regression Analysis
+  # Ecommerce Linear Regression Analysis
 
 This repository contains a Jupyter notebook that performs linear regression analysis on an E-commerce dataset predicting the valued customers who will most likely buy premium/ yearly subscription.
 
@@ -23,16 +23,14 @@ We used a joint plot to visualize the relationship between the time customers sp
 
 ### Linear Regression Model
 
-- **Model Building:** Built a linear regression model to predict the purchase amount based on customer demographics and spending score.
-- **Model Evaluation:** Evaluated the model using metrics such as R-squared and Mean Absolute Error (MAE).
+- **Model Building:** Built a linear regression model to predict the purchase amount based on customer behavior and time spent on the app/website.
+- **Model Evaluation:** Evaluated the model using R-squared and Mean Absolute Error (MAE) metrics.
 
-### Visualizations Bringing Business Insights
+### Key Visualizations
 
-- **Income vs. Spending Score:** Scatter plot showing the relationship between annual income and spending score, highlighting high-value customer segments.
-- **Age Distribution:** Histogram of customer ages, identifying the most common age groups.
-- **Gender Distribution:** Pie chart showing the proportion of male and female customers.
-- **Purchase Amount by Gender:** Box plot comparing purchase amounts between male and female customers.
-- **Spending Score Distribution:** Density plot of spending scores, helping to identify the distribution of customer spending behavior.
+1. **Time Spent on Website vs. Yearly Amount Spent:**
+   ![image](https://github.com/user-attachments/assets/5ec596e3-21c4-43ae-9ea2-dba297aeb88d)
+
 
 Results
 The linear regression model provided insights into the factors influencing purchase amounts, helping businesses to:
